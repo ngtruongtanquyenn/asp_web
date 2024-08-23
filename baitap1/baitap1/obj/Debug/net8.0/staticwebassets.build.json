@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iYXEi6AdcwbR2LKFpW/S7rFex1ljEWilDq1VPPEY0zg=",
+  "Hash": "bVe3rVN7bQ3byEmKOKVFdIyqE+Ar0s7z8C8NiAEPGOs=",
   "Source": "baitap1",
   "BasePath": "_content/baitap1",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\css\\temp.css",
+      "SourceId": "baitap1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\",
+      "BasePath": "_content/baitap1",
+      "RelativePath": "css/temp.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\temp.css"
     },
     {
       "Identity": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\favicon.ico",

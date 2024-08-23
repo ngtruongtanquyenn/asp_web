@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|c:\\users\\admin\\desktop\\asp_web\\baitap1\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|c:\\users\\admin\\desktop\\asp_web\\baitap1\\baitap1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|c:\\users\\admin\\desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\css\\temp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA33B870-7FD6-400F-BAEB-21DDAA15E477}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\wwwroot\\css\\temp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Program.cs",
+              "RelativeDocumentMoniker": "baitap1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Program.cs",
+              "RelativeToolTip": "baitap1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:28:10.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitap1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "baitap1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:59:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\.gitignore",
               "RelativeDocumentMoniker": "baitap1\\.gitignore",
@@ -35,15 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "baitap1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "baitap1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T08:59:11.849Z",
+              "DocumentIndex": 3,
+              "Title": "temp.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\css\\temp.css",
+              "RelativeDocumentMoniker": "baitap1\\wwwroot\\css\\temp.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\wwwroot\\css\\temp.css",
+              "RelativeToolTip": "baitap1\\wwwroot\\css\\temp.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T08:07:26.099Z",
               "EditorCaption": ""
             }
           ]
