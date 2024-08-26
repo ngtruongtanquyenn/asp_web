@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\baitap1.csproj": {}
+    "D:\\asp_web\\baitap1\\baitap1\\baitap1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\baitap1.csproj": {
+    "D:\\asp_web\\baitap1\\baitap1\\baitap1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\baitap1.csproj",
+        "projectUniqueName": "D:\\asp_web\\baitap1\\baitap1\\baitap1.csproj",
         "projectName": "baitap1",
-        "projectPath": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\baitap1.csproj",
+        "projectPath": "D:\\asp_web\\baitap1\\baitap1\\baitap1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\asp_web\\baitap1\\baitap1\\obj\\",
+        "outputPath": "D:\\asp_web\\baitap1\\baitap1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
