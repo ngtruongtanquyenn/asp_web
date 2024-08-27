@@ -18,6 +18,11 @@ namespace BaiTap02.Controllers
             return View();
         }
 
+        public IActionResult TheLoai(int id)
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
