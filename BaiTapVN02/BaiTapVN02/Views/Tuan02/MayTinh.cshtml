@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "MayTinh";
+}
+
+
+<h2>Kết quả của phép tính:</h2>
+
+@if (ViewBag.Loi != null)
+{
+    <p style="color:red">@ViewBag.Loi</p>
+}
+else
+{
+    <p> Kết quả là: @ViewBag.KetQua </p>
+}
+

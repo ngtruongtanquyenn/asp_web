@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    
+}
+<header>
+    <h2>BÀI TẬP</h2>
+</header>
+
+<section>
+    <nav>
+        <ul>
+            <li>@ViewBag.Hoten</li>
+            <li>@ViewBag.MSSV</li>
+        </ul>
+    </nav>
+    <h1>Nguyễn Trương Tấn Quyền</h1>
+    <p>------</p>
+    <a href="@Url.Action("Profile", "Tuan02")">
+        <img src="~/img/1.jpg" alt="", width="150px">
+    </a>
+    <article>
+    </article>
+</section>
+
+<footer>
+    <p>Copyright &copy; Nguyễn Trương Tấn Quyền - @ViewData["Nam"]</p>
+</footer>
+
+
+

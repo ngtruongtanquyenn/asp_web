@@ -10,19 +10,19 @@
 <section>
     <nav>
         <ul>
-            <li><a href="~/trang-chu">BẢN THÂN</a></li>
-            <li><a href="~/gioi-thieu-nhom">NHÓM</a></li>
+            <li>@ViewBag.Hoten</li>
+            <li>@ViewBag.MSSV</li>
         </ul>
     </nav>
-    <h1>Nguyễn Trương Tấn Quyền</h1>
+    
     <p>------</p>
-    <img src="~/image/hinh.jpg" style="width:100px;" />
+    <img src="~/img/1.jpg" style="width:100px;" />
     <article>
         
     </article>
 </section>
 
 <footer>
-    <p>Copyright &copy; Nguyễn Trương Tấn Quyền - @DateTime.Now.Year</p>
+    <p>Copyright &copy; Nguyễn Trương Tấn Quyền - @ViewData["Nam"]</p>
 </footer>
 

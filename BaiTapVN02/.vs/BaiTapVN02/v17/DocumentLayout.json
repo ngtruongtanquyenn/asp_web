@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp_web\\BaiTapVN02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|d:\\asp_web\\baitapvn02\\baitapvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|solutionrelative:baitapvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|d:\\asp_web\\baitapvn02\\baitapvn02\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|solutionrelative:baitapvn02\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|d:\\asp_web\\baitapvn02\\baitapvn02\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3BDCE6-603D-496C-AEE7-A54CA16A072C}|BaiTapVN02\\BaiTapVN02.csproj|solutionrelative:baitapvn02\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tuan02Controller.cs",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Controllers\\Tuan02Controller.cs",
+              "RelativeDocumentMoniker": "BaiTapVN02\\Controllers\\Tuan02Controller.cs",
+              "ToolTip": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Controllers\\Tuan02Controller.cs",
+              "RelativeToolTip": "BaiTapVN02\\Controllers\\Tuan02Controller.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:02:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN02\\Views\\Tuan02\\MayTinh.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeToolTip": "BaiTapVN02\\Views\\Tuan02\\MayTinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T05:02:27.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN02\\Views\\Tuan02\\Profile.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapVN02\\BaiTapVN02\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeToolTip": "BaiTapVN02\\Views\\Tuan02\\Profile.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T08:18:44.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
