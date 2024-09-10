@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp_web\\BaiTapKiemtra01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|d:\\asp_web\\baitapkiemtra01\\baitapkiemtra01\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|solutionrelative:baitapkiemtra01\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|d:\\asp_web\\baitapkiemtra01\\baitapkiemtra01\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|solutionrelative:baitapkiemtra01\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|d:\\asp_web\\baitapkiemtra01\\baitapkiemtra01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|solutionrelative:baitapkiemtra01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|d:\\asp_web\\baitapkiemtra01\\baitapkiemtra01\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|solutionrelative:baitapkiemtra01\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|d:\\asp_web\\baitapkiemtra01\\baitapkiemtra01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6288AC91-5C79-461D-8AE6-42252B8B8423}|BaiTapKiemtra01\\BaiTapKiemtra01.csproj|solutionrelative:baitapkiemtra01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTapKiemtra01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTapKiemtra01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:39:40.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\SanPham\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "BaiTapKiemtra01\\Views\\SanPham\\SanPham.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\SanPham\\SanPham.cshtml",
+              "RelativeToolTip": "BaiTapKiemtra01\\Views\\SanPham\\SanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:39:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "BaiTapKiemtra01\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "BaiTapKiemtra01\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:27:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapKiemtra01\\Program.cs",
+              "ToolTip": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Program.cs",
+              "RelativeToolTip": "BaiTapKiemtra01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:16:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "BaiTapKiemtra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapKiemtra01\\BaiTapKiemtra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "BaiTapKiemtra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:09:17.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
