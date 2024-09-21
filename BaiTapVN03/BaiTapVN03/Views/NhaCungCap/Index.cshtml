@@ -1,0 +1,31 @@
+﻿@model NhaCungCap
+
+<h1>Danh sách nhà cung cấp</h1>
+<div class="container">
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Địa chỉ</th>
+            <th>Số điện thoại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.CungCap)
+        {
+            <tr>
+                <td>@item.Ten</td>
+                <td>@item.DiaChi</td>
+                <td>@item.SoDienThoai</td>
+            </tr>
+        }
+    </tbody>
+</table>
+    <a asp-controller="NhaCungCap" asp-action="Them" class="btn btn-primary">Thêm mới</a>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
