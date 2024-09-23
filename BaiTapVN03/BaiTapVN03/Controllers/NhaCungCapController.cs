@@ -2,6 +2,7 @@
 using BaiTapVN03.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace BaiTapVN03.Controllers
 {
     public class NhaCungCapController : Controller
@@ -36,5 +37,27 @@ namespace BaiTapVN03.Controllers
             }
             return View();
         }
+
+        //[HttpPost]
+        //public ActionResult Them(NhaCungCap cungcap, IFormFile file)
+        //{
+        //    if (file != null && file.Length > 0)
+        //    {
+        //        var fileName = Path.GetFileName(file.FileName);
+        //        var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+
+        //        // Lưu file vào đường dẫn trên server
+        //        using (var stream = new FileStream(path, FileMode.Create))
+        //        {
+        //            file.CopyTo(stream);
+        //        }
+
+        //        // Lưu đường dẫn ảnh 
+        //        cungcap.ImageUrl = "/images/" + fileName;
+        //    }
+        //    _cc.NhaCungCaps.Add(cungcap);  // db là context của database
+        //    _cc.SaveChanges();
+        //    return View();
+        //}
     }
 }

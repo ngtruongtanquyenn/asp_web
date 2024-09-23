@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\asp_web\\BaiTapVN03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|d:\\asp_web\\baitapvn03\\baitapvn03\\models\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|solutionrelative:baitapvn03\\models\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|d:\\asp_web\\baitapvn03\\baitapvn03\\views\\nhacungcap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|solutionrelative:baitapvn03\\views\\nhacungcap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|solutionrelative:baitapvn03\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|d:\\asp_web\\baitapvn03\\baitapvn03\\views\\nhacungcap\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C263EA83-B9F6-4766-B335-242005C0719D}|BaiTapVN03\\BaiTapVN03.csproj|solutionrelative:baitapvn03\\views\\nhacungcap\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
-              "RelativeDocumentMoniker": "BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
-              "RelativeToolTip": "BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Them.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Them.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN03\\Views\\NhaCungCap\\Them.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Them.cshtml",
+              "RelativeToolTip": "BaiTapVN03\\Views\\NhaCungCap\\Them.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T09:11:32.148Z",
+              "WhenOpened": "2024-09-23T03:44:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Models\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "BaiTapVN03\\Models\\NhaCungCap.cs",
+              "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Models\\NhaCungCap.cs",
+              "RelativeToolTip": "BaiTapVN03\\Models\\NhaCungCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T03:42:50.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
+              "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVN03\\Views\\NhaCungCap\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T09:11:32.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NhaCungCapController.cs",
               "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Controllers\\NhaCungCapController.cs",
               "RelativeDocumentMoniker": "BaiTapVN03\\Controllers\\NhaCungCapController.cs",
               "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Controllers\\NhaCungCapController.cs",
               "RelativeToolTip": "BaiTapVN03\\Controllers\\NhaCungCapController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:09:52.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240921090753_img.cs",
-              "DocumentMoniker": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs",
-              "RelativeDocumentMoniker": "BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs",
-              "ToolTip": "D:\\asp_web\\BaiTapVN03\\BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs",
-              "RelativeToolTip": "BaiTapVN03\\Data\\Migrations\\20240921090753_img.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:07:53.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:09:52.219Z"
             }
           ]
         }
