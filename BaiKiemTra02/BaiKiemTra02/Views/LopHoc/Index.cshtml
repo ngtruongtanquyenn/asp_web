@@ -1,0 +1,31 @@
+﻿@model LopHoc
+
+<h2>Danh sách lớp học</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên lớp</th>
+            <th>Năm nhập học</th>
+            <th>Năm ra trường</th>
+            <th>Số lượng sinh viên</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lop in ViewBag.Lophoc)
+        {
+            <tr>
+                <td>@lop.TenLopHoc</td>
+                <td>@lop.NamNhapHoc</td>
+                <td>@lop.NamRaTruong</td>
+                <td>@lop.SoLuongSinhVien</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = lop.Id })">Chỉnh sửa</a> |
+                    <a href="@Url.Action("Details", new { id = lop.Id })">Chi tiết</a> |
+                    <a href="@Url.Action("Delete", new { id = lop.Id })">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create")" class="btn btn-primary">Thêm lớp học mới</a>
