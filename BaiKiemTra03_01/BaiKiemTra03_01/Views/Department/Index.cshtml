@@ -1,0 +1,36 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Department List</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Number of Employees</th>
+            <th>Manager ID</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Department)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.NumberOfEmployees</td>
+                <td>@item.ManagerId</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a> |
+                    <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Department</a>
+</p>
