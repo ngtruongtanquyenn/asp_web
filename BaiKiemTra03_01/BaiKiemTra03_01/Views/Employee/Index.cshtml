@@ -1,0 +1,61 @@
+﻿
+
+<h1>Employee List</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Department</th>
+            <th>Employment Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Position</td>
+                <td>@item.Department.Name</td> <!-- Bạn có thể lấy tên phòng ban thay vì ID nếu cần -->
+                <td>@item.EmploymentDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Upsert" asp-route-id="@item.EmployeeId" class="btn btn-primary">Edit</a> |
+                    
+                    <a class="text-danger" onclick="xoa(@item.EmployeeId, $(this))">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<a asp-controller="Employee" asp-action="Upsert" class="btn btn-primary">Thêm mới</a>
+
+<script>
+    function xoa(id, row) {
+
+        if (confirm("Bạn có chắc chắn muốn xóa nhân viên này không?")) {
+            $.ajax({
+                url: `/Employee/Delete/${id}`,
+                type: "POST",
+                success: function (data) {
+                    if (data.success) {
+                        row.closest("tr").remove();
+                        alert("Xóa thành công!");
+                    } else {
+                        alert("Xóa không thành công");
+                    }
+                },
+                error: function () {
+                    alert("Có lỗi xảy ra trong quá trình xóa.");
+                }
+            });
+        } else {
+            alert("Đã hủy bỏ việc xóa.");
+        }
+    }
+</script>
+
