@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\asp_web\\BaiKiemTra02\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\views\\lophoc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\views\\lophoc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|d:\\asp_web\\baikiemtra02\\baikiemtra02\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93185751-4342-4DAC-8E13-CCA3FE98BC75}|BaiKiemTra02\\BaiKiemTra02.csproj|solutionrelative:baikiemtra02\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,128 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Detail.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Detail.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Detail.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T08:14:12.563Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Program.cs",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Program.cs",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Program.cs",
-              "RelativeToolTip": "BaiKiemTra02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:08:14.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Delete.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T07:54:44.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T07:52:22.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T07:37:16.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LopHocController.cs",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Controllers\\LopHocController.cs",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Controllers\\LopHocController.cs",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Controllers\\LopHocController.cs",
-              "RelativeToolTip": "BaiKiemTra02\\Controllers\\LopHocController.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:17:32.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Search.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Search.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Search.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Search.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T08:01:58.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
-              "RelativeToolTip": "BaiKiemTra02\\Views\\LopHoc\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T07:35:21.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BaiKiemTra02\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:02:09.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LopHoc.cs",
-              "DocumentMoniker": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Models\\LopHoc.cs",
-              "RelativeDocumentMoniker": "BaiKiemTra02\\Models\\LopHoc.cs",
-              "ToolTip": "D:\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\Models\\LopHoc.cs",
-              "RelativeToolTip": "BaiKiemTra02\\Models\\LopHoc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:58:09.495Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
