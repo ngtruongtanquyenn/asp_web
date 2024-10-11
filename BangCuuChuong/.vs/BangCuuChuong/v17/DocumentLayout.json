@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\asp_web\\BangCuuChuong\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\views\\test\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|solutionrelative:bangcuuchuong\\views\\test\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|solutionrelative:bangcuuchuong\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|solutionrelative:bangcuuchuong\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|solutionrelative:bangcuuchuong\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|solutionrelative:bangcuuchuong\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A3179BB-3066-4657-B329-3BE2686B7745}|BangCuuChuong\\BangCuuChuong.csproj|d:\\asp_web\\bangcuuchuong\\bangcuuchuong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,31 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index.cshtml",
-              "RelativeDocumentMoniker": "BangCuuChuong\\Views\\test\\Index.cshtml",
-              "ToolTip": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index.cshtml",
-              "RelativeToolTip": "BangCuuChuong\\Views\\test\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index1.cshtml",
+              "RelativeDocumentMoniker": "BangCuuChuong\\Views\\test\\Index1.cshtml",
+              "ToolTip": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index1.cshtml",
+              "RelativeToolTip": "BangCuuChuong\\Views\\test\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T11:49:59.045Z"
+              "WhenOpened": "2024-10-11T02:51:58.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "testController.cs",
               "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Controllers\\testController.cs",
               "RelativeDocumentMoniker": "BangCuuChuong\\Controllers\\testController.cs",
               "ToolTip": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Controllers\\testController.cs",
               "RelativeToolTip": "BangCuuChuong\\Controllers\\testController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:49:11.165Z"
+              "WhenOpened": "2024-10-10T11:49:11.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\.gitignore",
               "RelativeDocumentMoniker": "BangCuuChuong\\.gitignore",
@@ -72,6 +78,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index.cshtml",
+              "RelativeDocumentMoniker": "BangCuuChuong\\Views\\test\\Index.cshtml",
+              "ToolTip": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\test\\Index.cshtml",
+              "RelativeToolTip": "BangCuuChuong\\Views\\test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:49:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\asp_web\\BangCuuChuong\\BangCuuChuong\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BangCuuChuong\\Views\\Home\\Index.cshtml",
