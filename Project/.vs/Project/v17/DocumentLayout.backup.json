@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp_web\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:29:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:23:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:23:29.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:19:42.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:17:23.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
