@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
 using Project.Models;
@@ -42,6 +42,17 @@ namespace Project.Controllers
             sanpham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == id);
             return View(sanpham);
             
+        }
+        [HttpGet]
+        public IActionResult FilterByTheLoai(int id)
+        {
+            
+            var sanpham = _db.SanPham
+                     .Include("TheLoai")  // Include bằng Lambda Expression
+                     .Where(sp => sp.TheLoaiId == id)  // Sử dụng TheLoaiId
+                     .ToList();
+
+            return View("Index", sanpham);
         }
     }
 }

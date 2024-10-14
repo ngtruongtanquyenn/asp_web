@@ -27,11 +27,16 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
                         <li class="nav-item"><a class="nav-link" href="index.html">Trang Chủ</a></li>
+                        
                         <li class="nav-item"><a class="nav-link" href="resume.html">Giới Thiệu</a></li>
-                        <li class="nav-item"><a class="nav-link" href="projects.html">Sản Phẩm</a></li>
+
+                        @* <li class="nav-item"><a class="nav-link" href="projects.html">Sản Phẩm</a></li> *@
+                        @await Component.InvokeAsync("TheLoai")
                         <li class="nav-item"><a class="nav-link" href="contact.html">Liên Hệ</a></li>
+
                         <li class="nav-item"><a class="nav-link" href="contact.html">Giải Đáp</a></li>
                     </ul>
+                   
                     <div>
                         <partial name="_LoginPartial" />
                     </div>

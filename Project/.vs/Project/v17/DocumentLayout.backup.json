@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\asp_web\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\views\\home\\filterbytheloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\views\\home\\filterbytheloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|d:\\asp_web\\project\\project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916A86E9-0348-41D5-9773-83DB04C16863}|Project\\Project.csproj|solutionrelative:project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T06:29:22.337Z",
+              "WhenOpened": "2024-10-14T07:55:41.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T06:28:30.575Z",
               "EditorCaption": ""
             },
             {
@@ -51,52 +68,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Project\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FilterByTheLoai.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Home\\FilterByTheLoai.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\FilterByTheLoai.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Home\\FilterByTheLoai.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\FilterByTheLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T06:23:42.703Z",
+              "WhenOpened": "2024-10-14T07:53:03.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T06:23:29.023Z"
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:32:28.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T06:19:42.68Z"
+              "WhenOpened": "2024-10-14T06:56:15.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "D:\\asp_web\\Project\\Project\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "Project\\Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T06:17:23.626Z"
+              "DocumentIndex": 5,
+              "Title": "TheLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "ToolTip": "D:\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "RelativeToolTip": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:25:16.482Z",
+              "EditorCaption": ""
             }
           ]
         }

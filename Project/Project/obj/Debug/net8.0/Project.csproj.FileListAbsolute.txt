@@ -585,3 +585,4 @@ D:\asp_web\Project\Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.
 D:\asp_web\Project\Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\asp_web\Project\Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\asp_web\Project\Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+D:\asp_web\Project\Project\obj\Debug\net8.0\scopedcss\Views\Shared\Components\TheLoai\Default.cshtml.rz.scp.css
