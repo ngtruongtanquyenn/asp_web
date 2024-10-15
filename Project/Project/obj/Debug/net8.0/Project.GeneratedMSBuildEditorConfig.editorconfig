@@ -62,8 +62,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/asp_web/Project/Project/Areas/Customer/Views/GioHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcR2lvSGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/asp_web/Project/Project/Areas/Customer/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp_web/Project/Project/Areas/Customer/Views/Home/FilterByTheLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxGaWx0ZXJCeVRoZUxvYWkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/asp_web/Project/Project/Areas/Customer/Views/Home/Index.cshtml]
@@ -240,10 +248,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/asp_web/Project/Project/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/asp_web/Project/Project/Views/Home/FilterByTheLoai.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaWx0ZXJCeVRoZUxvYWkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/asp_web/Project/Project/Views/Shared/Error.cshtml]

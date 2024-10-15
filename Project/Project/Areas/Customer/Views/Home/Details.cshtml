@@ -1,5 +1,5 @@
-﻿@model SanPham
-
+﻿@model GioHang
+<form method="post">
 <style>
     .product-image {
         max-width: 100%;
@@ -26,27 +26,27 @@
     <div class="row">
         <!-- Product Image -->
         <div class="col-md-6">
-            <img src="@Model.ImageUrl" alt="Product Image" class="product-image">
+            <img src="@Model.SanPham.ImageUrl" alt="Product Image" class="product-image">
         </div>
 
         <!-- Product Details -->
         <div class="col-md-6">
-            <h1 class="product-title">@Model.Name</h1>
-            <p class="product-description">@Model.Description</p>
+            <h1 class="product-title">@Model.SanPham.Name</h1>
+            <p class="product-description">@Model.SanPham.Description</p>
             <h4 class="product-price text-danger">
-                @Model.price.ToString("N0") đ
+                @Model.SanPham.price.ToString("N0") đ
             </h4>
-
+                
             <!-- Quantity Selector -->
             <div class="quantity-control my-3">
-                <button class="btn btn-outline-secondary" onclick="decreaseQuantity()">-</button>
-                <input type="text" class="form-control quantity-input mx-2" id="quantity" value="1" readonly>
-                <button class="btn btn-outline-secondary" onclick="increaseQuantity()">+</button>
+                <a class="btn btn-outline-secondary" onclick="decreaseQuantity()">-</a>
+                <input type="text" class="form-control quantity-input mx-2" id="quantity" asp-for="Quantity" value="@Model.Quantity" readonly>
+                <a class="btn btn-outline-secondary" onclick="increaseQuantity()">+</a>
             </div>
 
             <!-- Add to Cart Button -->
-            <button class="btn btn-danger">Mua ngay</button>
-            <button class="btn btn-primary" onclick="addToCart()">Thêm vào giỏ hàng</button>
+            @* <button class="btn btn-danger">Mua ngay</button> *@
+            <button type="submit" class="btn btn-danger" onclick="addToCart()">Thêm vào giỏ hàng</button>
 
             <!-- Success Message -->
             <div id="cart-message" class="alert alert-success mt-3 d-none">
@@ -54,6 +54,8 @@
             </div>
         </div>
     </div> <!-- Custom JavaScript -->
+</div>
+</form>
     <script>
         function increaseQuantity() {
             var quantityInput = document.getElementById('quantity');
@@ -68,7 +70,7 @@
                 quantityInput.value = currentValue - 1;
             }
         }
-
+        /*
         function addToCart() {
             var quantity = document.getElementById('quantity').value;
             var messageDiv = document.getElementById('cart-message');
@@ -85,5 +87,5 @@
                 messageDiv.classList.add('d-none');
             }, 3000);
         }
+        */
     </script>
-</div>
